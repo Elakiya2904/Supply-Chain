@@ -31,4 +31,3 @@
 #**Summary:**
 The system forecasts inventory needs, confirms reorder decisions, negotiates with suppliers, manages purchase orders, schedules shipments, and tracks deliveries — all powered by AI and live data integrations to optimize supply chain operations.
 
-# **Inventory and Management Model**
